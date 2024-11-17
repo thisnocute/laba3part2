@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laba3 new</string>
+    <string name="textview">Список студентов</string>
+    <string name="addbutton">Добавление студентов</string>
+    <string name="deletebutton">Удаление</string>
+    <string name="viewbutton">Список студентов</string>
+</resources>
